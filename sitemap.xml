@@ -22,7 +22,13 @@
     <loc>https://preview.carpentries.org/maintainer-onboarding/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/maintainer-onboarding/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/maintainer-onboarding/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/maintainer-onboarding/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/maintainer-onboarding/index.html</loc>
@@ -49,16 +55,34 @@
     <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/maintainer-onboarding/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/maintainer-onboarding/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/maintainer-onboarding/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/maintainer-onboarding/profiles.html</loc>
